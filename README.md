@@ -1,4 +1,4 @@
-
+Interactive Outbound Operations Dashboard for monitoring shipment ageing, NTC performance, putaway pending, shipment status, and route cutoffs. Built with AI as a locally runnable HTML application, enabling teams to upload live CSV data, filter operations, search shipments, and improve outbound visibility.
 
 
 **Prompt**
